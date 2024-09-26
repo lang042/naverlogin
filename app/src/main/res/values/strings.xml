@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NaverLogin</string>
+    <string name="naver_client_id">xkBgoDz4dR1NEGQFeaEk</string> <!-- 실제 클라이언트 ID -->
+    <string name="naver_client_secret"></string>  <!-- 실제 클라이언트 Secret -->
+</resources>
